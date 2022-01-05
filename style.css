@@ -247,6 +247,7 @@ main {
 }
 
 #image-person img {
+  width: 50%;
   position: absolute;
   right: 0;
 }
